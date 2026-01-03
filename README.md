@@ -1,4 +1,5 @@
 👋 Hi my name is Emeka Iheanacho
+
 👀 I’m interested in data analysis, visualization, and building data-driven solutions using SQL, Power BI, and Python.
 
 🌱 I’m currently advancing my skills in Python for Data Science, with the goal of transitioning into a Data Scientist role.
